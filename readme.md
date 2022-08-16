@@ -1,5 +1,7 @@
 # Food restuarant Homepage.
  This is a single page food restuarant project in which **HTML** and **CSS** is used.
+ ## Live link
+ [Netlify](https://food-restuarant-page.netlify.app/)
 
  # Skills required.
  1. HTML
